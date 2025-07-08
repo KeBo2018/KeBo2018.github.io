@@ -11,21 +11,18 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* B.S. in Biomedical Engineering, Xian Jiaotong University, 2015
+* Ph.D in Biomedical Engineering, University of Florida, 2020
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+Research scientist								 	     12/2020-05/2021
+Neuroinformatics Laboratory (PI: Dr. Mingzhou Ding), University of Florida
+•	Research focus: Utilizing machine learning (traditional algorithms and deep neural networks) and multi-modal neuroimaging techniques (fMRI, EEG, and ECoG) to understand human emotion processing.
+Postdoctoral researcher 								      05/2021-current
+Cognitive and Affective Neuroscience Laboratory (PI: Tor Wager), Dartmouth College
+•	Research focus: 1. Applying new Bayesian computational frameworks to understand the human emotion regulation process. 2. Investigating functional activation in mitochondrial disease during various cognitive tasks using functional neuroimaging, to understand its impact on neurodegenerative processes.
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
   
 Skills
 ======
