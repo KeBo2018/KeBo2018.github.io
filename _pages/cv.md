@@ -26,18 +26,7 @@ Postdoctoral researcher 								      05/2021-current
 Cognitive and Affective Neuroscience Laboratory (PI: Tor Wager), Dartmouth College
 •	Research focus: 1. Applying new Bayesian computational frameworks to understand the human emotion regulation process. 2. Investigating functional activation in mitochondrial disease during various cognitive tasks using functional neuroimaging, to understand its impact on neurodegenerative processes.
 
-  
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
-
-Publications
-Publications 
+**Publications **
 1.	Bo, K., Kraynak, T. E., Kwon, M., Sun, M., Gianaros, P. J., & Wager, T. D. (2024). A systems identification approach using Bayes factors to deconstruct the brain bases of emotion regulation. Nature Neuroscience, 1-13.
 2.	Bo, K., Cui, L., Yin, S., Hu, Z., Hong, X., Kim, S., ... & Ding, M. (2022). Decoding the temporal dynamics of affective scene processing. NeuroImage, 261, 119532.
 3.	Bo, K., Yin, S., Liu, Y., Hu, Z., Meyyappan, S., Kim, S., ... & Ding, M. (2021). Decoding neural representations of affective scenes in retinotopic visual cortex. Cerebral cortex, 31(6), 3047-3063.
@@ -52,23 +41,24 @@ Publications
 12.	Liang, Y., Zhao, Q., Hu, Z., Bo, K., Meyyappan, S., Neubert, J. K., & Ding, M. (2023). Imaging the neural substrate of trigeminal neuralgia pain using deep learning. Frontiers in Human Neuroscience, 17, 1144159.
 13.	Hu, Z., Samuel, I. B., Meyyappan, S., Bo, K., Rana, C., & Ding, M. (2022). Aftereffects of frontoparietal theta tACS on verbal working memory: Behavioral and neurophysiological analysis. IBRO neuroscience reports, 13, 469-477.
 
-Manuscript in preparation
+**Manuscript in preparation**
 1.	Xiong, C.,* Bo, K.,* Ding, M.  Distracted by affective pictures: Neural mechanisms revealed by multivariate pattern analysis.
 2.	Liu, P.,* Bo, K.,* Ding, M., & Fang, R. Valence perception in a deep neural network model that incorporates visual cortex-amygdala anatomy.
 3.	Bo, K., Lindquist, A.M., Wager, T. D. Temporal dynamic of affective and its regulatory processes in human amygdala.
 4.	Bo, K., Kelly, C., Hirano. M., Picard, M., Wager, T. D. Abnormal Brain Functions in Mitochondrial Diseases: A Multimodal fMRI Study Across Sensory, Affective, and Cognitive Domains.
-5.	
-Book chapter
+   
+**Book chapter**
 •	Bo. K., & Wager, T. D. (2023). The brain bases of emotion regulation: Evidence from fMRI. In 
 Handbook of Emotion Regulation (3rd ed.). Guilford.
 •	Bo, K. & Wager, T. D. (in press) Placebo effects and emotion regulation: Conceptual and neural similarities and differences. In Placebo Effects in Neurology.
 
 
-Talks
-======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
+**Talks**
+	Ke Bo; Deconstructing the brain bases of emotion regulation: A system-identification approach using Bayes factors. Symposium talk at Social Affective Neuroscience Society (SANS) 2023. Santa Babara, CA. April 2023.
+	Ke Bo; Deconstructing the brain bases of emotion regulation: A system-identification approach using Bayes factors. Dartmouth Brain Imaging Center, fMRI brown bag, Hanover, NH. April 2023.
+	Ke Bo; Look into the brain basis of emotion generation and regulation: From a beginner to a deep thinker. Stanford Psychophysiology Laboratory, Stanford, CA. May 2024.
+	Ke Bo; Break the neural code of emotion regulation. Virtual talk in iBrainTalk. May 2024.
+
   
 Teaching
 ======
