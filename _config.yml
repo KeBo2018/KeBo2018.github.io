@@ -13,6 +13,21 @@ name                     : &name "Your Name"
 description              : &description "personal description"
 url                      : https://kebo2018.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
+  nav:
+    - title: "Publications"
+      url: "/publications/"
+    - title: "Talks"
+      url: "/talks/"
+    - title: "Teaching"
+      url: "/teaching/"
+    - title: "Portfolio"
+      url: "/portfolio/"
+    - title: "Blog Posts"
+      url: "/blog/"       # or whatever your posts collection is
+    - title: "CV"
+      url: "/cv/"
+    - title: "Guide"
+      url: "/guide/"      # if you have a guide page
 repository               : "https://kebo2018.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
