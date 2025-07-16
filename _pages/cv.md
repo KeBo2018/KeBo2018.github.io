@@ -8,7 +8,15 @@ redirect_from:
 ---
 {% include base_path %}
 
-# Education
+# Bio
+
+# I’m a postdoctoral fellow in the Department of Psychological and Brain Sciences at Dartmouth College, and I’m passionate about uncovering how the brain gives rise to emotion and mental health.
+
+My journey began at the University of Florida, where I earned my Ph.D. in Biomedical Engineering. There, I pioneered the use of simultaneous EEG/fMRI and intracranial ECoG to map the spatiotemporal dynamics of emotion processing in the human brain. Witnessing friends and family struggle with mood and anxiety underscored for me the real‐world impact of affective disorders—and drove me to apply machine‐learning and computational models to decode neural signatures of emotion and build AI systems that mimic these processes.
+
+In my postdoctoral work at Dartmouth, I expanded this focus to emotion regulation and its links to mental health. I developed a Bayesian framework to tease apart the neural circuits of emotion generation versus regulation, deepening my conviction that understanding these mechanisms is key to promoting brain well‐being.
+
+Most recently, I’ve turned my attention to the mitochondrial bioenergetics that power every aspect of brain function—from basic sensory processing to high-level cognition and emotion. Our data show that mitochondrial energy metabolism is a foundational driver of neural activity and is closely tied to mental health. Yet how bioenergetic health shapes emotion regulation—and why its disruption contributes to psychopathology—remains an open question. I’m now laying the groundwork for my own lab to integrate these threads, with the ultimate goal of illuminating the bioenergetic roots of emotional resilience and disorder.<br>Education
 
 * B.S. in Biomedical Engineering, Xian Jiaotong University, 2015
 * Ph.D in Biomedical Engineering, University of Florida, 2020
@@ -34,8 +42,8 @@ Cognitive and Affective Neuroscience Laboratory (PI: Tor Wager), Dartmouth Colle
 # Teaching
 
 * {% for post in site.teaching %}
-      {% include archive-single-cv.html %}
-    {% endfor %}
+        {% include archive-single-cv.html %}
+      {% endfor %}
 
 # Service and leadership
 
