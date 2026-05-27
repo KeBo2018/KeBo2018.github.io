@@ -1,16 +1,58 @@
 ---
 permalink: /
-title: This is Ke Bo's personal website pages. Welcome!
-excerpt: About me
+title: "BEACON Lab"
+excerpt: "Brain Energy, Affect, Computation, and Neuroimaging"
 author_profile: true
 redirect_from:
   - /about/
   - /about.html
 ---
-Ke Bo, Ph.D
 
-![](/uploads/pdwhlq5c-400x400.jpg)
+## BEACON Lab
 
-Email: ke.bo@dartmouth.edu
+**Brain Energy, Affect, Computation, and Neuroimaging**
 
-I’m Ke Bo, a postdoctoral fellow in the Department of Psychological and Brain Sciences at Dartmouth College. I use cutting-edge neuroimaging (EEG/fMRI/ECoG) and computational modeling to map how the brain generates and regulates emotion. My Ph.D. work decoded the spatiotemporal pathways of emotion, and in my postdoctoral research I developed a Bayesian framework to tease apart neural circuits of emotion regulation. Most recently, I’m uncovering how mitochondrial bioenergetics power everything from basic sensory processing to complex cognition and emotional health. My goal is to launch an integrated lab that reveals the bioenergetic roots of emotional resilience and disorder.
+Department of Psychology · The University of Texas at Dallas
+
+The BEACON Lab studies how the brain **generates and regulates emotion**, and
+how these processes are shaped by the brain's ability to meet its **energy
+demands**. We combine fMRI, EEG, computational neuroimaging, machine learning,
+and biomarkers of bioenergetic health to study emotion regulation, resilience,
+aging, and mental health.
+
+The lab is led by **Ke Bo**, an incoming Assistant Professor in the Department
+of Psychology at UT Dallas. We are building a collaborative and supportive
+environment for students and researchers who are excited about using
+quantitative neuroscience to answer meaningful questions about emotion,
+brain–body interactions, and human well-being.
+
+## Research directions
+
+* **Brain networks underlying emotion regulation** — how large-scale control
+  systems support the regulation of emotion.
+* **Bioenergetic constraints on emotion regulation** — how the brain's energy
+  supply, aging, and fatigue shape emotion-regulation networks.
+* **Computational neuroimaging of real-life emotion regulation** — how people
+  decide whether and how to regulate emotion in everyday contexts.
+* **Brain–body interventions for emotional well-being** — translating
+  mechanistic discoveries into neurofeedback, stimulation, and lifestyle
+  interventions.
+* **Comparing human and AI emotion processing** — how AI models perceive and
+  "regulate" emotion, and how this differs from human experience.
+
+## Join us
+
+We are recruiting **PhD students** and **research assistants**. We welcome
+people from diverse backgrounds — psychology, neuroscience, engineering,
+computer science, statistics, biology, and related fields. Prior experience in
+every method is not required; curiosity, reliability, and excitement about
+interdisciplinary research matter most.
+
+Prospective PhD students should apply through the relevant graduate program at
+UT Dallas, and are welcome to email a brief description of their research
+interests and background beforehand. Research assistant positions (full- or
+part-time) are also available for those seeking hands-on experience in human
+neuroscience research.
+
+If you are interested in joining, please get in touch by email. See the
+[publications](/publications/) and [CV](/cv/) pages to learn more about our work.
