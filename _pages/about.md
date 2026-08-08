@@ -1,23 +1,23 @@
 ---
 permalink: /
-title: "BEACON Lab"
-excerpt: "Brain Energy, Affect, Computation, and Neuroimaging"
+title: "AIMM Lab"
+excerpt: "Affective Neuroimaging and Modeling for Mental Health"
 author_profile: true
 redirect_from:
   - /about/
   - /about.html
 ---
 
-**Brain Energy, Affect, Computation, and Neuroimaging**
+**Affective Neuroimaging and Modeling for Mental Health**
 
 Department of Psychology · The University of Texas at Dallas
 
-> **We are recruiting.** The BEACON Lab is looking for PhD students and
+> **We are recruiting.** The AIMM Lab at UTDallas is looking for PhD students and
 > research assistants. See the [Join Us](/join/) page for details.
 
 ## Welcome
 
-I am an incoming Assistant Professor in the Department of Psychology at The
+I am an Assistant Professor in the Department of Psychology at The
 University of Texas at Dallas. My research asks how the brain generates and
 regulates emotion, and how these processes are shaped by the brain's ability
 to meet its energy demands. To address these questions, my lab combines fMRI,
@@ -32,10 +32,10 @@ human well-being.
 
 Our research spans several connected directions:
 
-- Brain networks underlying emotion regulation
-- Bioenergetic constraints on emotion regulation
-- Computational neuroimaging of real-life emotion regulation
+-  Brain networks underlying emotion regulation
+- Bioenergetic health, emotion regulation, and mental health
+- Computational neuroimaging of naturalistic emotion regulation
 - Brain–body interventions for emotional well-being
-- Comparing human emotion regulation with AI models
+-  Human and AI models of emotion regulation
 
 Visit the [Research](/research/) page to read more about each direction.
