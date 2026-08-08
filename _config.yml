@@ -6,10 +6,10 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "BEACON Lab"
+title                    : "AIMM Lab"
 title_separator          : "-"
-name                     : &name "BEACON Lab"
-description              : &description "Brain Energy, Affect, Computation, and Neuroimaging Lab at UT Dallas. We study how the brain generates and regulates emotion, and how bioenergetic health shapes these processes."
+name                     : &name "AIMM Lab"
+description              : &description "Affective NeuroImaging and Modeling for Mental Health (AIMM) Lab at UT Dallas. We study how the brain generates and regulates emotion, and how bioenergetic health shapes these processes and influences mental health."
 url                      : https://kebo2018.github.io # the base hostname & protocol for your site
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "KeBo2018/KeBo2018.github.io"
@@ -78,7 +78,7 @@ analytics:
 author:
   name             : "Ke Bo, PhD"
   avatar           : "pdwhlq5c-400x400.jpg"
-  bio              : "Incoming Assistant Professor of Psychology, UT Dallas. PI of the BEACON Lab — emotion, brain bioenergetics, and computational neuroimaging."
+  bio              : "Assistant Professor of Psychology, UT Dallas. PI of the AIMM Lab — Affective NeuroImaging and Modeling for Mental Health."
   location         : "Dallas, TX"
   employer         : "The University of Texas at Dallas"
   pubmed           :
