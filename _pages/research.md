@@ -17,38 +17,35 @@ following directions.
 
 ## Brain networks underlying emotion regulation
 
-Emotion regulation depends on the coordinated activity of large-scale brain
-networks. We use computational neuroimaging to characterize the network
-architecture that supports the generation and regulation of emotion, and to
-identify how specific control systems contribute to adaptive regulation.
+Emotion regulation allows us to modify how we experience and respond to emotional events and is an important part of adaptive behavior and mental health. Rather than relying on a single brain region, emotion regulation emerges from coordinated activity across large-scale brain networks.
 
-## Bioenergetic constraints on emotion regulation
+We use computational neuroimaging to characterize how these distributed brain systems work together to generate and regulate emotion. We are particularly interested in how emotion-regulation networks differ across individuals, how they vary with people's preferred regulation strategies, and how repeated use of different strategies may shape these brain systems over time.
 
-We study how bioenergetic health shapes the brain's ability to regulate
-emotion. Emotion regulation depends on high-level cognitive control systems
-that may be especially vulnerable when the brain's energy resources are
-limited. Using fMRI, EEG, computational neuroimaging, and biomarkers of
-bioenergetic health, we examine how energy availability, aging, fatigue, and
-clinical symptoms influence emotion-regulation networks and mental health.
 
-## Computational neuroimaging of real-life emotion regulation
+## Bioenergetic health, emotion regulation, and mental health
 
-We develop computational neuroimaging approaches to study emotion regulation
-in contexts that more closely resemble everyday life. Rather than focusing
-only on instructed strategies, we ask how people decide whether and how to
-regulate their emotions, what neural systems support these decisions, and how
-biological and psychological constraints shape regulation choices.
+The brain is one of the body's most energy-demanding organs, and neural activity depends heavily on mitochondria to generate the energy needed to support brain function. Mitochondrial health is therefore a fundamental component of bioenergetic health and may shape how effectively the brain responds to cognitive and emotional demands.
+
+Emotion regulation is a core process supporting mental health. It relies on coordinated activity across large-scale brain networks and engages cognitively demanding neural systems that require substantial energy. This raises the possibility that emotion regulation may be particularly sensitive to differences in bioenergetic health and may serve as an important pathway linking the body's energetic state to emotional well-being and mental health.
+
+Using fMRI, EEG, computational neuroimaging, and biomarkers of bioenergetic health, we examine how mitochondrial function, aging, fatigue, and clinical symptoms influence emotion-regulation networks and mental health.
+
+## Computational neuroimaging of naturalistic emotion regulation
+
+Much of what we know about emotion regulation comes from laboratory studies in which participants are instructed to use a specific strategy, such as reappraisal, in response to emotional stimuli. These paradigms have been essential for identifying the brain systems involved in emotion regulation, but everyday emotion regulation is often much less structured. In real life, people must first decide whether to regulate, which strategy to use, and when to change or stop that strategy.
+
+We aim to develop more naturalistic experimental paradigms and computational neuroimaging approaches to study these processes as they unfold. We ask how people make emotion-regulation decisions, what brain systems support these choices and their implementation, and how biological and psychological factors shape regulation behavior in everyday-like contexts.
 
 ## Brain–body interventions for emotional well-being
 
-We aim to translate mechanistic discoveries into interventions that improve
-emotion regulation and mental health. This includes identifying precise neural
-targets for neurofeedback and brain stimulation, as well as testing whether
-metabolic, lifestyle, or behavioral interventions can strengthen bioenergetic
-health and support more adaptive emotion regulation.
+Understanding the mechanisms of emotion regulation can also help identify new ways to improve emotional well-being and mental health. If specific brain networks and biological processes contribute to more adaptive emotion regulation, they may provide targets for intervention.
 
-## Comparing human emotion regulation with AI models
+We aim to translate our mechanistic findings into brain- and body-based approaches that support healthier emotional functioning. On the brain side, we are interested in identifying precise neural targets for interventions such as neurofeedback and brain stimulation. On the body side, we aim to test whether metabolic, lifestyle, and behavioral interventions can improve bioenergetic health and, in turn, support brain function and emotion regulation.
 
-Current AI models have gradually achieved human-level performance. We are
-interested in how AI models perceive emotion and how they regulate it, and in
-how these computational processes differ from human emotional experience.
+Ultimately, this work seeks to understand not only how brain and body systems shape emotional health, but also whether these systems can be modified to promote resilience and well-being.
+
+## Human and AI models of emotion regulation
+
+Recent advances in artificial intelligence have produced models that can recognize emotional content, reason about emotional situations, and generate responses that resemble human emotion-regulation strategies. Yet these abilities emerge from computational systems that are fundamentally different from the biological mechanisms supporting human emotion.
+
+We are interested in using AI models as a new computational framework for studying emotion regulation. We ask how AI models represent emotional information, how they generate different regulation strategies, and where their responses converge with or diverge from human behavior and brain processes. By comparing humans and AI, we hope to better understand which aspects of emotion regulation reflect general computational principles and which depend on the unique biological and experiential characteristics of the human brain.

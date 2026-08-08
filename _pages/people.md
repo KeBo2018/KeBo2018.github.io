@@ -8,12 +8,13 @@ author_profile: true
 
 ### Ke Bo, PhD
 
-Assistant Professor, Department of Psychology, The University of Texas at Dallas
+Assistant Professor, Center for Vital Longevity, Department of Psychology, The University of Texas at Dallas
 
-Ke Bo is a cognitive neuroscientist who applies computational modeling and
-machine learning to multimodal neuroimaging to uncover how the brain generates
-and regulates emotion, and how bioenergetic health shapes cognition and mental
-health.
+Ke Bo is a cognitive neuroscientist who uses computational modeling, machine learning, and multimodal neuroimaging to understand how the brain generates and regulates emotion. His work has focused on identifying patterns of brain activity that underlie emotional experiences and regulation, and on understanding why these processes differ across individuals.
+
+Building on this work, Ke is increasingly interested in a broader question: How does the health of our body shape the way we think and feel through the brain? Everyday experiences suggest a close connection between physical and emotional well-being. Exercise can improve mood, physical illness can affect how we think and feel, and our body's ability to produce and use energy may influence how the brain responds to challenges.
+
+His long-term research aims to uncover the mechanisms linking physical health, brain function, emotion, and mental health, with a particular interest in bioenergetic and mitochondrial health. By integrating neuroimaging, biological measures, and computational approaches, his work seeks to understand how brain and body systems work together to support emotional well-being and resilience.
 
 **Education and postdoctoral training**
 
