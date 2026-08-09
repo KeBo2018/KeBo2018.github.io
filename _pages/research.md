@@ -4,16 +4,17 @@ permalink: /research/
 author_profile: true
 ---
 
-The BEACON Lab works at the intersection of affective neuroscience,
-neuroimaging, brain bioenergetics, and mental health. Our current work focuses
-on:
+The AIMM Lab studies emotion across multiple levels, from brain networks and biological processes to everyday behavior and computational models. We combine affective neuroscience, multimodal neuroimaging, biological measures, and computational modeling to understand how emotion is generated and regulated, why these processes differ across individuals, and how they contribute to mental health.
 
-- The brain basis of emotion regulation and emotion generation
-- How bioenergetics influence brain function
-- Decoding the temporal dynamics of emotion generation
+Our research is guided by several broad questions:
 
-Building on these themes, our research program is organized around the
-following directions.
+- How do brain networks and temporal dynamics support the generation and regulation of emotion?
+- How do bioenergetic and physical health shape emotion regulation and mental health?
+- How do people decide whether and how to regulate their emotions in everyday life, and how do they select among different regulation strategies?
+- Can brain and body based interventions improve emotion regulation and emotional well-being?
+- What can comparisons between humans and AI teach us about the computational principles of emotion processing and regulation?
+
+Building on these questions, our research program is organized around the following directions.
 
 ## Brain networks underlying emotion regulation
 
