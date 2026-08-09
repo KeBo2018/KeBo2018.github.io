@@ -77,13 +77,13 @@ analytics:
 # Site Author
 author:
   name             : "Ke Bo, PhD"
-  avatar           : "pdwhlq5c-400x400.jpg"
+  avatar           : "ke-bo-avatar.jpg"
   bio              : "Assistant Professor of Psychology, UT Dallas. PI of the AIMM Lab — Affective NeuroImaging and Modeling for Mental Health."
   location         : "Dallas, TX"
   employer         : "The University of Texas at Dallas"
   pubmed           :
   googlescholar    : "https://scholar.google.com/citations?user=jA9GICIAAAAJ&hl=en&oi=ao"
-  email            :   # <-- ADD your UT Dallas email here, e.g. ke.bo@utdallas.edu
+  email            : "Ke.Bo@UTDallas.edu"
   researchgate     : "https://www.researchgate.net/profile/Ke-Bo-2"
   uri              :
   bitbucket        :

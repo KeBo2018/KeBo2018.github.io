@@ -1,4 +1,4 @@
-# main links — BEACON Lab navigation
+# main links — AIMM Lab navigation
 main:
   - title: "Home"
     url: /
@@ -11,6 +11,9 @@ main:
 
   - title: "Publications"
     url: /publications/
+
+  - title: "Teaching"
+    url: /teaching/
 
   - title: "News"
     url: /news/

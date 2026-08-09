@@ -12,7 +12,7 @@ redirect_from:
 
 Department of Psychology · The University of Texas at Dallas
 
-> **We are recruiting.** The AIMM Lab at UTDallas is looking for PhD students and
+> **We are recruiting.** The AIMM Lab at UT Dallas is looking for PhD students and
 > research assistants. See the [Join Us](/join/) page for details.
 
 ## Welcome
@@ -32,10 +32,10 @@ human well-being.
 
 Our research spans several connected directions:
 
--  Brain networks underlying emotion regulation
+- Brain networks underlying emotion regulation
 - Bioenergetic health, emotion regulation, and mental health
 - Computational neuroimaging of naturalistic emotion regulation
 - Brain–body interventions for emotional well-being
--  Human and AI models of emotion regulation
+- Human and AI models of emotion regulation
 
 Visit the [Research](/research/) page to read more about each direction.

@@ -97,4 +97,4 @@ project that suits you.
 ## How to contact us
 
 If you are interested in joining the lab, please email me at
-[YOUR-EMAIL@utdallas.edu](mailto:YOUR-EMAIL@utdallas.edu).
+[Ke.Bo@UTDallas.edu](mailto:Ke.Bo@UTDallas.edu).
