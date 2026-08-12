@@ -37,14 +37,13 @@ about human emotion and well-being.
 
 ## PhD students
 
-I plan to recruit PhD students who are interested in developing an independent
-research program related to affective neuroscience, computational neuroimaging
-(primarily fMRI), bioenergetics, and mental health.
+I plan to recruit PhD students whose research interests align with one or more of the AIMM Lab’s research directions. I especially welcome students who want to develop greater independence in shaping their own research questions and projects over the course of their PhD.
 
-Prospective PhD students should apply through the relevant graduate program at
-UT Dallas. Before applying, you are welcome to email me with a brief
-description of your research interests, your background, and why you are
-interested in the lab.
+Applicants with backgrounds in psychology, cognitive neuroscience, biomedical engineering, computer science, or related fields are especially encouraged to apply. I am particularly interested in students who are self-motivated, intellectually curious, and willing to communicate openly and work collaboratively. I believe that a productive mentor–mentee relationship depends on mutual fit in research interests, expectations, and communication, so I encourage prospective students to consider whether the AIMM Lab is a good fit for their goals as well.
+
+Prior research experience is preferred, but students are not expected to already have expertise in every method we use. A major part of PhD training is developing new skills, and I see mentorship and training as an important part of my role as an advisor. My goal is to help students build the scientific and methodological skills they need while gradually developing greater independence in their research.
+
+Prospective PhD students should apply through the relevant graduate program at UT Dallas. Before applying, you are welcome to email me with a brief description of your research interests, background, and why you are interested in the AIMM Lab.
 
 A helpful email would include:
 
@@ -54,47 +53,36 @@ A helpful email would include:
 - A CV or resume
 - Any specific questions about the lab or graduate training
 
-You do not need to have experience in every method we use. I believe that a
-major part of PhD training is learning, and it is my job to train you in the
-skills needed for research. Students with strong motivation for relevant
-research and a willingness to learn would be a good match. Other valuable
-qualities, such as good communication and presentation skills, are a plus.
-
 ## Research assistants and lab managers
 
-I will recruit full-time or part-time research assistants to help with ongoing
-projects involving behavioral experiments, neuroimaging, data analysis,
-participant recruitment, and biomarker-related workflows.
+Research assistants and lab managers
 
-This position may be a good fit for individuals who are preparing for graduate
-school or who want to gain hands-on experience in human neuroscience research.
+The AIMM Lab will recruit full-time and part-time research assistants and lab managers to support human neuroscience studies of emotion, emotion regulation, brain function, and brain–body mechanisms. These positions may be especially well suited for individuals preparing for graduate school who want hands-on experience across multiple stages of the research process.
 
 Research assistants may be involved in:
 
-- Recruiting and scheduling participants
-- Running online studies, behavioral experiments, neuroimaging recordings, and
-  biomarker collection
-- Processing and organizing research data
-- Learning data-analysis tools such as Python, R, MATLAB, or neuroimaging
-  software
+- Preparing IRB protocols and study materials
+- Designing, programming, piloting, and running emotion and emotion regulation experiments
+- Recruiting, screening, and scheduling participants
+- Running behavioral studies and collecting questionnaire and physiological measures
+- Assisting with MRI and fMRI study sessions
+- Assisting with basic biospecimen collection and processing
+- Organizing and quality-checking research data
+- Learning and contributing to behavioral and neuroimaging data analysis
 
-Applicants with experience in programming, statistics, neuroimaging,
-physiology, or clinical and behavioral research are especially encouraged to
-reach out, but prior experience is not required for all roles.
+Because our research integrates multiple levels of measurement, research assistants can gain experience with the full process of human neuroscience research, from study development and data collection to analysis and interpretation.
+
+Experience with psychology or neuroscience research, MRI, experimental programming, statistics, physiology, or biospecimen collection and processing is a plus, but training will be provided as appropriate. We especially value curiosity, reliability, attention to detail, willingness to learn, and an interest in working collaboratively with research participants and other lab members.
 
 ## Lab environment
 
-My goal is to build a lab that is rigorous, supportive, and collaborative. We
-aim to do careful science while also creating an environment where people can
-grow as researchers and enjoy the process of discovering new findings and
-learning new scientific skills.
+My goal is to build a lab that is rigorous, supportive, and collaborative. We aim to do careful science while also creating an environment where people can grow as researchers, learn new scientific skills, and enjoy the process of discovery.
 
-I believe everyone has their own interests and life goals, and these do not
-have to be limited to an academic career. I encourage you to share your goals
-before joining the lab, and I will do my best to align our goals and find a
-project that suits you.
+I believe everyone has their own interests and life goals, and those goals do not have to be limited to an academic career. I encourage you to share what you hope to learn and where you would like to go before joining the lab. I will do my best to understand your goals, align them with opportunities in the lab, and find projects that help you grow in the direction that is meaningful to you.
+
+The path of research can be exciting and rewarding, but it can also be challenging and, at times, lonely. I have been fortunate throughout my own journey to meet mentors, colleagues, and friends who were kind and generous, shared similar goals and dreams, and made that journey much more meaningful. I hope to offer the next generation of researchers the same kind of support that others have given me, and to help each person in the lab pursue their own goals and dreams.
 
 ## How to contact us
 
 If you are interested in joining the lab, please email me at
-[Ke.Bo@UTDallas.edu](mailto:Ke.Bo@UTDallas.edu).
+[Ke.Bo@utdallas.edu]
