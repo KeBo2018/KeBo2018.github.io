@@ -47,7 +47,7 @@ staticman:
         format           : "iso8601"
 atom_feed:
   path                   :
-  show_edit_link: true
+  show_edit_link: false
 
 # SEO Related
 google_site_verification :

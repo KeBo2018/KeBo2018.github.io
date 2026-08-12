@@ -9,11 +9,20 @@ redirect_from:
 
 {% include base_path %}
 
-You can view Ke Bo's full CV below, or download it as a PDF.
+<p><a href="/files/Ke-Bo-CV.pdf" class="btn btn--primary">Download CV (PDF)</a></p>
 
-<a href="/files/Ke-Bo-CV.pdf" class="btn btn--primary">Download CV (PDF)</a>
+<p style="color: #7a8288; font-size: 0.9em;">
+  A preview is shown below on desktop. On phones and tablets, use the download
+  button above.
+</p>
 
-<iframe src="/files/Ke-Bo-CV.pdf" width="100%" height="900px" style="border: 1px solid #ccc; margin-top: 1.5em;">
-  This browser cannot display embedded PDFs.
-  <a href="/files/Ke-Bo-CV.pdf">Download the CV here.</a>
-</iframe>
+<object data="/files/Ke-Bo-CV.pdf"
+        type="application/pdf"
+        width="100%"
+        height="900px"
+        style="border: 1px solid #ccc; margin-top: 1em;">
+  <p style="padding: 1.5em;">
+    Your browser cannot display embedded PDFs.
+    <a href="/files/Ke-Bo-CV.pdf">Download the CV here.</a>
+  </p>
+</object>

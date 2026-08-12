@@ -37,7 +37,7 @@ about human emotion and well-being.
 
 ## PhD students
 
-I plan to recruit PhD students whose research interests align with one or more of the AIMM Lab’s research directions. I especially welcome students who want to develop greater independence in shaping their own research questions and projects over the course of their PhD.
+I plan to recruit PhD students whose research interests align with one or more of the AIMM Lab’s research directions in Fall 2027. I especially welcome students who want to develop greater independence in shaping their own research questions and projects over the course of their PhD.
 
 Applicants with backgrounds in psychology, cognitive neuroscience, biomedical engineering, computer science, or related fields are especially encouraged to apply. I am particularly interested in students who are self-motivated, intellectually curious, and willing to communicate openly and work collaboratively. I believe that a productive mentor–mentee relationship depends on mutual fit in research interests, expectations, and communication, so I encourage prospective students to consider whether the AIMM Lab is a good fit for their goals as well.
 
@@ -53,11 +53,9 @@ A helpful email would include:
 - A CV or resume
 - Any specific questions about the lab or graduate training
 
-## Research assistants and lab managers
+## Research assistants 
 
-Research assistants and lab managers
-
-The AIMM Lab will recruit full-time and part-time research assistants and lab managers to support human neuroscience studies of emotion, emotion regulation, brain function, and brain–body mechanisms. These positions may be especially well suited for individuals preparing for graduate school who want hands-on experience across multiple stages of the research process.
+TThe AIMM Lab will recruit full-time research assistants, ideally beginning in Spring 2027. These positions may be especially well suited for individuals preparing for graduate school who want hands-on experience across multiple stages of the research process.
 
 Research assistants may be involved in:
 
@@ -74,6 +72,12 @@ Because our research integrates multiple levels of measurement, research assista
 
 Experience with psychology or neuroscience research, MRI, experimental programming, statistics, physiology, or biospecimen collection and processing is a plus, but training will be provided as appropriate. We especially value curiosity, reliability, attention to detail, willingness to learn, and an interest in working collaboratively with research participants and other lab members.
 
+## Undergraduate research assistants
+
+The AIMM Lab welcomes undergraduate students interested in gaining hands-on research experience. Undergraduate RAs may assist with participant recruitment and data collection, literature review, behavioral data processing, and, when appropriate, neuroimaging or computational analysis.
+
+Prior research experience is not required. Students who can make a consistent time commitment and are interested in learning more about our work are encouraged to reach out.
+
 ## Lab environment
 
 My goal is to build a lab that is rigorous, supportive, and collaborative. We aim to do careful science while also creating an environment where people can grow as researchers, learn new scientific skills, and enjoy the process of discovery.
@@ -85,4 +89,4 @@ The path of research can be exciting and rewarding, but it can also be challengi
 ## How to contact us
 
 If you are interested in joining the lab, please email me at
-[Ke.Bo@utdallas.edu]
+[Ke.Bo@UTDallas.edu](mailto:Ke.Bo@UTDallas.edu)
