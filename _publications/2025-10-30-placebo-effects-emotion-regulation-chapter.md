@@ -5,7 +5,9 @@ permalink: /publication/2025-10-30-placebo-effects-emotion-regulation-chapter
 excerpt: ''
 date: 2025-10-30
 venue: 'Handbook of Clinical Neurology (book chapter)'
-paperurl: 'https://www.sciencedirect.com/science/chapter/handbook/abs/pii/B9780443298844000042'
+category: chapters
+venue_note: 'Book chapter &middot; <i>Placebo Effects in Neurology</i> (Handbook of Clinical Neurology, Vol. 213), 2025'
+paperurl: 'https://doi.org/10.1016/B978-0-443-29884-4.00004-2'
 citation: '<b>Bo, K.</b>, &amp; Wager, T. D. (2025). Placebo effects and emotion regulation: Conceptual and neural similarities and differences. In F. Benedetti &amp; A. Shaibani (Eds.), <i>Placebo effects in neurology</i> (Handbook of Clinical Neurology, Vol. 213, pp. 17&ndash;29). Elsevier.'
 ---
 
