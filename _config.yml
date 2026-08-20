@@ -50,7 +50,7 @@ atom_feed:
   show_edit_link: false
 
 # SEO Related
-google_site_verification : <meta name="google-site-verification" content="1FD4zxsNDAqfAV76OinKdFdWuheWyqNGVgajj9A-0Fo" />
+google_site_verification : "1FD4zxsNDAqfAV76OinKdFdWuheWyqNGVgajj9A-0Fo"
 bing_site_verification   :
 alexa_site_verification  :
 yandex_site_verification :
