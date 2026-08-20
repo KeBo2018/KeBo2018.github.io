@@ -1,14 +1,14 @@
 ---
 permalink: /
-title: "AIMM Lab"
-excerpt: "Affective Neuroimaging and Modeling for Mental Health"
+title: "Home"
+excerpt: "Affective NeuroImaging and Modeling for Mental Health"
 author_profile: true
 redirect_from:
   - /about/
   - /about.html
 ---
 
-**Affective Neuroimaging and Modeling for Mental Health**
+**Affective NeuroImaging and Modeling for Mental Health**
 
 Department of Psychology · The University of Texas at Dallas
 
