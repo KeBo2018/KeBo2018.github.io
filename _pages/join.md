@@ -55,7 +55,7 @@ A helpful email would include:
 
 ## Research assistants 
 
-TThe AIMM Lab will recruit full-time research assistants, ideally beginning in Spring 2027. These positions may be especially well suited for individuals preparing for graduate school who want hands-on experience across multiple stages of the research process.
+The AIMM Lab will recruit full-time research assistants, ideally beginning in Spring 2027. These positions may be especially well suited for individuals preparing for graduate school who want hands-on experience across multiple stages of the research process.
 
 Research assistants may be involved in:
 
