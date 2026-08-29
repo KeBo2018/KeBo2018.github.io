@@ -10,14 +10,14 @@ redirect_from:
 
 **Affective NeuroImaging and Modeling for Mental Health**
 
-Department of Psychology · The University of Texas at Dallas
+Center for Vital Longevity, Department of Psychology, The University of Texas at Dallas
 
 > **We are recruiting.** The AIMM Lab at UT Dallas is looking for PhD students and
 > research assistants. See the [Join Us](/join/) page for details.
 
 ## Welcome
 
-I am an Assistant Professor in the Department of Psychology at The
+I am an Assistant Professor in the Department of Psychology, Center for Vital Longevity, at The
 University of Texas at Dallas. My research asks how the brain generates and
 regulates emotion, and how these processes are shaped by the brain's ability
 to meet its energy demands. To address these questions, my lab combines fMRI,
