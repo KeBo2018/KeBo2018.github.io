@@ -3,7 +3,47 @@ title: "Join Us"
 permalink: /join/
 author_profile: true
 ---
+---
+title: "AIMM Lab is Recruiting"
+permalink: /join/
+author_profile: true
+excerpt: "The AIMM Lab at UT Dallas is recruiting 1–2 PhD students for Fall 2027 and one full-time Research Assistant for Spring 2027."
+---
 
+# Currently Recruiting
+
+The **Affective NeuroImaging and Modeling for Mental Health (AIMM) Lab** at **The University of Texas at Dallas** is currently recruiting new lab members.
+
+### PhD Students
+
+**1–2 positions**  
+**Expected start: Fall 2027**
+
+We are looking for prospective PhD students interested in topics including:
+
+- Functional MRI and neuroimaging
+- Affective and cognitive neuroscience
+- Emotion generation and emotion regulation
+- Computational neuroimaging and machine learning
+- Brain bioenergetics, metabolic health, and mental health
+- Resilience and cognitive/affective aging
+
+Prospective students from psychology, neuroscience, cognitive science, biomedical engineering, computer science, statistics, and related backgrounds are encouraged to reach out.
+
+### Research Assistant
+
+**1 full-time position**  
+**Expected start: Spring 2027**
+
+The Research Assistant will contribute to human neuroscience research involving behavioral experiments, MRI/fMRI, emotion and emotion regulation, physiological and biological measures, and neuroimaging data analysis.
+
+The official UT Dallas job posting will be linked here once it becomes available.
+
+**Interested?** Please see the detailed information below about our research, training environment, and what we look for in lab members.
+
+---
+
+## About Joining the AIMM Lab
 We are excited to build a collaborative, supportive, and intellectually
 curious lab at the intersection of affective neuroscience, neuroimaging, brain
 bioenergetics, and mental health.
