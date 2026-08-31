@@ -8,6 +8,8 @@ title: "AIMM Lab is Recruiting"
 permalink: /join/
 author_profile: true
 excerpt: "The AIMM Lab at UT Dallas is recruiting 1–2 PhD students for Fall 2027 and one full-time Research Assistant for Spring 2027."
+header:
+  image: recruitment-share.png
 ---
 
 # Currently Recruiting
