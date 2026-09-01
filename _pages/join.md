@@ -12,7 +12,6 @@ excerpt: "The AIMM Lab at UT Dallas is recruiting 1–2 PhD students for Fall 20
      alt="AIMM Lab Recruitment"
      style="display:block; width:420px; max-width:90%; height:auto; margin:0 auto 25px auto;">
 
-The **Affective NeuroImaging and Modeling for Mental Health (AIMM) Lab** at **The University of Texas at Dallas** is currently recruiting new lab members.
 
 ### PhD Students
 
