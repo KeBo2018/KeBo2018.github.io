@@ -7,7 +7,7 @@ author_profile: true
 ## Principal Investigator
 
 <div style="display: flex; flex-wrap: wrap; align-items: flex-start; gap: 1.5em; margin-bottom: 1.5em;">
-  <img src="/images/ke-bo-headshot.jpg"
+  <img src="/images/ke-bo-avatar.jpg"
        alt="Portrait of Ke Bo"
        style="flex: 0 0 200px; max-width: 200px; width: 100%; height: auto; border-radius: 6px;">
   <div style="flex: 1 1 300px;">

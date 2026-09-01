@@ -1,13 +1,16 @@
 ---
-title: "AIMM Lab is Recruiting"
+title: "AIMM Lab is Recruiting | Ke Bo, PhD"
 permalink: /join/
 author_profile: true
 excerpt: "The AIMM Lab at UT Dallas is recruiting 1–2 PhD students for Fall 2027 and one full-time Research Assistant for Spring 2027."
-header:
-  image: recruitment-share.png
+
 ---
 
 # Currently Recruiting
+
+<img src="/images/recruitment-share.png"
+     alt="AIMM Lab Recruitment"
+     style="display:block; width:420px; max-width:90%; height:auto; margin:0 auto 25px auto;">
 
 The **Affective NeuroImaging and Modeling for Mental Health (AIMM) Lab** at **The University of Texas at Dallas** is currently recruiting new lab members.
 
